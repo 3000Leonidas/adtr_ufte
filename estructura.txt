@@ -1,0 +1,496 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n�mero de serie del volumen es: 2EE4-4BE0
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package
+
+05/03/2025  12:05 p. m.    <DIR>          .
+05/03/2025  12:05 p. m.    <DIR>          ..
+05/03/2025  10:16 a. m.               249 .env
+12/02/2025  10:22 a. m.               522 .eslintrc.cjs
+12/02/2025  10:22 a. m.               624 .gitignore
+12/02/2025  10:22 a. m.                21 .npmrc
+12/02/2025  10:22 a. m.               149 .prettierrc
+05/03/2025  11:03 a. m.             5,423 App.py
+20/02/2025  11:53 a. m.                 0 echo
+12/02/2025  10:22 a. m.                38 env.d.ts
+05/03/2025  12:07 p. m.               220 estructura.txt
+05/03/2025  11:03 a. m.    <DIR>          flask_session
+12/02/2025  10:22 a. m.               522 index.html
+12/02/2025  10:22 a. m.                53 netlify.toml
+12/02/2025  10:32 a. m.    <DIR>          node_modules
+12/02/2025  10:27 a. m.           262,917 package-lock.json
+12/02/2025  10:22 a. m.             1,629 package.json
+12/02/2025  10:22 a. m.    <DIR>          public
+12/02/2025  10:22 a. m.               565 README.md
+13/02/2025  10:56 a. m.    <DIR>          script
+28/02/2025  10:48 p. m.             1,859 Sensores.py
+12/02/2025  10:22 a. m.    <DIR>          src
+05/03/2025  11:57 a. m.               711 tsconfig.json
+12/02/2025  10:22 a. m.               178 tsconfig.vite-config.json
+20/02/2025  02:31 p. m.             1,835 update_roles.py
+14/02/2025  10:50 a. m.             1,116 vite.config.ts
+              19 archivos        278,631 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\public
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+12/02/2025  10:22 a. m.    <DIR>          assets
+12/02/2025  10:22 a. m.             2,159 favicon.png
+12/02/2025  10:22 a. m.                24 _redirects
+               2 archivos          2,183 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\public\assets
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+12/02/2025  10:22 a. m.    <DIR>          images
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\public\assets\images
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+12/02/2025  10:22 a. m.    <DIR>          icon
+12/02/2025  10:22 a. m.    <DIR>          products
+12/02/2025  10:22 a. m.    <DIR>          users
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\public\assets\images\icon
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+12/02/2025  10:22 a. m.               218 danger.svg
+12/02/2025  10:22 a. m.               194 success.svg
+12/02/2025  10:22 a. m.               267 warning.svg
+               3 archivos            679 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\public\assets\images\products
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+12/02/2025  10:22 a. m.            27,236 1.jpg
+12/02/2025  10:22 a. m.            24,587 2.jpg
+12/02/2025  10:22 a. m.            50,970 3.jpg
+12/02/2025  10:22 a. m.            11,239 4.jpg
+               4 archivos        114,032 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\public\assets\images\users
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+12/02/2025  10:22 a. m.             6,965 1.jpg
+12/02/2025  10:22 a. m.             7,634 2.jpg
+12/02/2025  10:22 a. m.             7,772 3.jpg
+12/02/2025  10:22 a. m.             8,302 4.jpg
+12/02/2025  10:22 a. m.             8,699 5.jpg
+12/02/2025  10:22 a. m.             6,463 6.jpg
+12/02/2025  10:22 a. m.             8,191 7.jpg
+12/02/2025  10:22 a. m.             7,260 8.jpg
+12/02/2025  10:22 a. m.            67,581 user.jpg
+12/02/2025  10:22 a. m.             2,196 user2.jpg
+              10 archivos        131,063 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\script
+
+13/02/2025  10:56 a. m.    <DIR>          .
+13/02/2025  10:56 a. m.    <DIR>          ..
+28/02/2025  10:37 p. m.               461 config.py
+28/02/2025  10:40 p. m.               463 db.py
+28/02/2025  10:42 p. m.    <DIR>          __pycache__
+               2 archivos            924 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\script\__pycache__
+
+28/02/2025  10:42 p. m.    <DIR>          .
+28/02/2025  10:42 p. m.    <DIR>          ..
+28/02/2025  10:39 p. m.               740 config.cpython-313.pyc
+28/02/2025  10:42 p. m.               874 db.cpython-313.pyc
+               2 archivos          1,614 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+12/02/2025  10:22 a. m.               127 App.vue
+12/02/2025  10:22 a. m.    <DIR>          assets
+12/02/2025  10:22 a. m.    <DIR>          components
+12/02/2025  10:22 a. m.    <DIR>          data
+12/02/2025  10:22 a. m.    <DIR>          layouts
+12/02/2025  10:22 a. m.               569 main.ts
+12/02/2025  10:22 a. m.    <DIR>          plugins
+12/02/2025  10:22 a. m.    <DIR>          router
+12/02/2025  10:22 a. m.    <DIR>          scss
+12/02/2025  10:22 a. m.    <DIR>          theme
+12/02/2025  10:22 a. m.    <DIR>          types
+12/02/2025  10:22 a. m.    <DIR>          views
+               2 archivos            696 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\assets
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+12/02/2025  10:22 a. m.    <DIR>          images
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\assets\images
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+12/02/2025  10:22 a. m.    <DIR>          backgrounds
+12/02/2025  10:22 a. m.    <DIR>          blog
+12/02/2025  03:04 p. m.    <DIR>          logos
+12/02/2025  10:22 a. m.    <DIR>          products
+12/02/2025  10:22 a. m.    <DIR>          profile
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\assets\images\backgrounds
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+12/02/2025  10:22 a. m.            38,704 errorimg.svg
+               1 archivos         38,704 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\assets\images\blog
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+12/02/2025  10:22 a. m.            58,416 blog-img1.jpg
+12/02/2025  10:22 a. m.            96,509 blog-img4.jpg
+               2 archivos        154,925 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\assets\images\logos
+
+12/02/2025  03:04 p. m.    <DIR>          .
+12/02/2025  03:04 p. m.    <DIR>          ..
+12/02/2025  03:04 p. m.             8,150 ibmetro.jpg
+12/02/2025  10:22 a. m.             9,373 logo-dark-rtl.svg
+12/02/2025  10:22 a. m.             9,078 logo-dark.svg
+12/02/2025  10:22 a. m.             9,370 logo-light-rtl.svg
+12/02/2025  10:22 a. m.             9,070 logo-light.svg
+               5 archivos         45,041 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\assets\images\products
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+12/02/2025  10:22 a. m.           216,549 s11.jpg
+12/02/2025  10:22 a. m.           174,846 s4.jpg
+12/02/2025  10:22 a. m.           120,598 s5.jpg
+12/02/2025  10:22 a. m.           185,169 s7.jpg
+               4 archivos        697,162 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\assets\images\profile
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+12/02/2025  10:22 a. m.             7,293 user-1.jpg
+12/02/2025  10:22 a. m.            27,038 user-10.jpg
+12/02/2025  10:22 a. m.            83,795 user-2.jpg
+12/02/2025  10:22 a. m.            68,299 user-3.jpg
+12/02/2025  10:22 a. m.            74,866 user-4.jpg
+12/02/2025  10:22 a. m.            57,840 user-5.jpg
+12/02/2025  10:22 a. m.            95,060 user-6.jpg
+12/02/2025  10:22 a. m.            27,786 user-7.jpg
+12/02/2025  10:22 a. m.            28,073 user-8.jpg
+12/02/2025  10:22 a. m.            20,357 user-9.jpg
+12/02/2025  10:22 a. m.           101,504 user1.jpg
+12/02/2025  10:22 a. m.            90,023 user2.jpg
+12/02/2025  10:22 a. m.           102,113 user3.jpg
+12/02/2025  10:22 a. m.            80,056 user4.jpg
+12/02/2025  10:22 a. m.            85,683 user5.jpg
+12/02/2025  10:22 a. m.            84,416 user6.jpg
+              16 archivos      1,034,202 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\components
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+12/02/2025  10:22 a. m.    <DIR>          auth
+28/02/2025  08:16 p. m.    <DIR>          dashboards
+05/03/2025  10:10 a. m.    <DIR>          shared
+12/02/2025  10:22 a. m.    <DIR>          ui-components
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\components\auth
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+27/02/2025  09:09 p. m.             3,381 LoginForm.vue
+14/02/2025  04:16 p. m.             2,881 RegisterForm.vue
+               2 archivos          6,262 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\components\dashboards
+
+28/02/2025  08:16 p. m.    <DIR>          .
+28/02/2025  08:16 p. m.    <DIR>          ..
+28/02/2025  08:22 p. m.             1,941 TablaHum.vue
+28/02/2025  08:22 p. m.             1,954 TablaTemp.vue
+28/02/2025  10:35 p. m.             3,867 Temperatura.vue
+17/02/2025  08:33 p. m.             2,780 THumedad.vue
+17/02/2025  08:35 p. m.             4,471 ThumedadTemperatura.vue
+               5 archivos         15,013 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\components\shared
+
+05/03/2025  10:10 a. m.    <DIR>          .
+05/03/2025  10:10 a. m.    <DIR>          ..
+17/02/2025  08:07 p. m.               398 BaseCard.vue
+12/02/2025  10:22 a. m.               703 CardHeaderFooter.vue
+05/03/2025  10:34 a. m.               511 UiChildCard.vue
+05/03/2025  10:35 a. m.               717 UiParentCard.vue
+12/02/2025  10:22 a. m.               765 UiParentCardLogo.vue
+               5 archivos          3,094 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\components\ui-components
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+28/02/2025  07:54 p. m.    <DIR>          alert
+28/02/2025  08:12 p. m.    <DIR>          button
+12/02/2025  10:22 a. m.    <DIR>          cards
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\components\ui-components\alert
+
+28/02/2025  07:54 p. m.    <DIR>          .
+28/02/2025  07:54 p. m.    <DIR>          ..
+28/02/2025  08:00 p. m.               190 Closable.vue
+               1 archivos            190 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\components\ui-components\button
+
+28/02/2025  08:12 p. m.    <DIR>          .
+28/02/2025  08:12 p. m.    <DIR>          ..
+28/02/2025  08:04 p. m.                93 Humedad1.vue
+28/02/2025  08:05 p. m.               117 Humedad2.vue
+05/03/2025  10:31 a. m.               437 OutlinedButtons.vue
+               3 archivos            647 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\components\ui-components\cards
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+17/02/2025  08:05 p. m.             2,142 CardsContentWrap.vue
+17/02/2025  08:06 p. m.               875 CardsMedia.vue
+17/02/2025  08:06 p. m.               398 CardsProps.vue
+17/02/2025  08:06 p. m.               493 CardsSlots.vue
+17/02/2025  08:07 p. m.             1,730 CardsTwitter.vue
+17/02/2025  08:07 p. m.             2,767 CardsWeather.vue
+               6 archivos          8,405 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\data
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+12/02/2025  10:22 a. m.    <DIR>          dashboard
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\data\dashboard
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+28/02/2025  08:21 p. m.             2,647 dashboardData.ts
+               1 archivos          2,647 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\layouts
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+12/02/2025  10:22 a. m.    <DIR>          blank
+12/02/2025  10:22 a. m.    <DIR>          full
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\layouts\blank
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+12/02/2025  10:22 a. m.               226 BlankLayout.vue
+               1 archivos            226 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\layouts\full
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+05/03/2025  10:27 a. m.               528 FullLayout.vue
+12/02/2025  10:22 a. m.    <DIR>          logo
+27/02/2025  09:31 p. m.             3,119 Main.vue
+12/02/2025  10:22 a. m.    <DIR>          vertical-header
+12/02/2025  10:22 a. m.    <DIR>          vertical-sidebar
+               2 archivos          3,647 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\layouts\full\logo
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+12/02/2025  02:57 p. m.               132 Logo.vue
+12/02/2025  03:05 p. m.               302 LogoDark.vue
+               2 archivos            434 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\layouts\full\vertical-header
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+12/02/2025  10:22 a. m.               268 NotificationDD.vue
+05/03/2025  10:52 a. m.             2,008 ProfileDD.vue
+               2 archivos          2,276 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\layouts\full\vertical-sidebar
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+05/03/2025  10:29 a. m.               442 Icon.vue
+12/02/2025  10:22 a. m.    <DIR>          NavGroup
+25/02/2025  08:30 p. m.    <DIR>          NavItem
+05/03/2025  10:20 a. m.             3,050 sidebarItem.ts
+               2 archivos          3,492 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\layouts\full\vertical-sidebar\NavGroup
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+12/02/2025  10:22 a. m.               446 index.vue
+               1 archivos            446 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\layouts\full\vertical-sidebar\NavItem
+
+25/02/2025  08:30 p. m.    <DIR>          .
+25/02/2025  08:30 p. m.    <DIR>          ..
+05/03/2025  10:29 a. m.             1,624 index.vue
+               1 archivos          1,624 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\plugins
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+12/02/2025  10:22 a. m.               999 vuetify.ts
+               1 archivos            999 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\router
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+12/02/2025  10:22 a. m.               529 AuthRoutes.ts
+05/03/2025  08:51 a. m.               428 index.ts
+05/03/2025  10:37 a. m.               979 MainRoutes.ts
+               3 archivos          1,936 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\scss
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+12/02/2025  10:22 a. m.    <DIR>          components
+12/02/2025  10:22 a. m.    <DIR>          layout
+12/02/2025  10:22 a. m.    <DIR>          pages
+12/02/2025  10:22 a. m.               498 style.scss
+12/02/2025  10:22 a. m.             1,595 _override.scss
+12/02/2025  10:22 a. m.             4,297 _variables.scss
+               3 archivos          6,390 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\scss\components
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+12/02/2025  10:22 a. m.               347 _VButtons.scss
+12/02/2025  10:22 a. m.               945 _VCard.scss
+12/02/2025  10:22 a. m.               577 _VInput.scss
+12/02/2025  10:22 a. m.               166 _VNavigationDrawer.scss
+12/02/2025  10:22 a. m.               259 _VShadow.scss
+12/02/2025  10:22 a. m.               200 _VTextField.scss
+               6 archivos          2,494 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\scss\layout
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+12/02/2025  10:22 a. m.               663 _container.scss
+12/02/2025  02:07 p. m.             6,917 _sidebar.scss
+12/02/2025  10:22 a. m.             1,661 _topbar.scss
+               3 archivos          9,241 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\scss\pages
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+14/02/2025  11:53 a. m.             2,175 _authentication.scss
+12/02/2025  10:22 a. m.             2,004 _dashboards.scss
+               2 archivos          4,179 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\theme
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+12/02/2025  10:22 a. m.             1,051 LightTheme.ts
+               1 archivos          1,051 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\types
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+12/02/2025  10:22 a. m.    <DIR>          dashboard
+12/02/2025  10:22 a. m.    <DIR>          themeTypes
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\types\dashboard
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+28/02/2025  09:48 a. m.               436 index.ts
+               1 archivos            436 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\types\themeTypes
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+12/02/2025  10:22 a. m.               864 ThemeType.ts
+               1 archivos            864 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\views
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+12/02/2025  10:22 a. m.    <DIR>          authentication
+12/02/2025  10:22 a. m.    <DIR>          dashboard
+12/02/2025  10:22 a. m.    <DIR>          icons
+05/03/2025  10:43 a. m.    <DIR>          pages
+28/02/2025  08:01 p. m.    <DIR>          ui-components
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\views\authentication
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+12/02/2025  03:37 p. m.               999 BoxedLogin.vue
+12/02/2025  10:22 a. m.             1,946 BoxedRegister.vue
+12/02/2025  10:22 a. m.               460 Error.vue
+               3 archivos          3,405 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\views\dashboard
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+05/03/2025  10:39 a. m.               705 index.vue
+               1 archivos            705 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\views\icons
+
+12/02/2025  10:22 a. m.    <DIR>          .
+12/02/2025  10:22 a. m.    <DIR>          ..
+17/02/2025  08:16 p. m.               815 TablerIcons.vue
+               1 archivos            815 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\views\pages
+
+05/03/2025  10:43 a. m.    <DIR>          .
+05/03/2025  10:43 a. m.    <DIR>          ..
+05/03/2025  10:36 a. m.               506 Icons.vue
+               1 archivos            506 bytes
+
+ Directorio de C:\Users\G-1\Desktop\plantilaa vue\spike-vue-free-main\package\src\views\ui-components
+
+28/02/2025  08:01 p. m.    <DIR>          .
+28/02/2025  08:01 p. m.    <DIR>          ..
+28/02/2025  08:23 p. m.             1,419 Humedad.vue
+05/03/2025  10:07 a. m.             2,337 Tables.vue
+28/02/2025  08:23 p. m.               884 Temperatura.vue
+               3 archivos          4,640 bytes

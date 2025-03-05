@@ -48,5 +48,5 @@ Thumbs.db
 *.mov
 *.wmv
 
-# Environment variables
+# Environment variables que se deben ignorar
 .env

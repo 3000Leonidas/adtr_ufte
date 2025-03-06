@@ -1,44 +1,35 @@
 <script setup>
 import { ref, onMounted } from 'vue';
 import UiChildCard from '@/components/shared/UiChildCard.vue';
-//import { on } from 'events';
-//Modificar para que se pueda conectar a la base de datos user, acceso y correo 
-//modificar y colocar botones de editar y eliminar usuarios
+
 const users = ref([]);
-const errorMessage = ref(''); // Nombre corregido: errorMessages -> errorMessage
+const errorMessage = ref('');
 
 onMounted(async () => {
     try {
-        const token = localStorage.getItem('token'); // Obtén el token del localStorage
-
-        const response = await fetch('/api/users', {
-            headers: {
-                'Authorization': `Bearer ${token}` // Usa el token obtenido
-            }
-        });
+        const response = await fetch('/api/users'); // Elimina el encabezado Authorization
 
         if (response.ok) {
             users.value = await response.json();
-            errorMessage.value = ''; // Limpia el mensaje de error si la petición es exitosa
+            errorMessage.value = '';
         } else {
             const errorData = await response.json();
-            errorMessage.value = errorData.message || 'Error al obtener usuarios.'; // Usa errorMessage
+            errorMessage.value = errorData.message || 'Error al obtener usuarios.';
             console.error('Error:', response.status, response.statusText);
         }
     } catch (error) {
-        errorMessage.value = error.message; // Usa errorMessage
+        errorMessage.value = error.message;
         console.error('Error:', error);
     }
 });
 </script>
 
 <template>
-
     <div>
-    <div v-if="errorMessage">{{ errorMessage }}</div>
+        <div v-if="errorMessage">{{ errorMessage }}</div>
     </div>
 
-   <v-row class="month-table">
+    <v-row class="month-table">
         <v-col cols="12" sm="12">
             <UiChildCard title="Tabla de usuario">
                 <v-table fixed-header height="300px">
@@ -58,7 +49,7 @@ onMounted(async () => {
                     </tbody>
                 </v-table>
                 <div v-if="errorMessage" class="error-message">{{ errorMessage }}</div>
-             </UiChildCard>
+            </UiChildCard>
         </v-col>
     </v-row>
 </template>
